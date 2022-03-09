@@ -72,14 +72,14 @@ The `[oxford|oald|cwn|textbook]` arguments are used to assign the specific defin
 
 ```
 @inproceedings{kong-etal-2022-simpdefiner,
-	title = "Multitasking Framework for Unsupervised Simple Definition Generation",
-	author = "Kong, Cunliang and
-	  Chen, Yun and
-	  Zhang, Hengyuan and
-	  Yang, Liner and
-	  Yang, Erhong",
-	booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
-	year = "2022"
+    title = "Multitasking Framework for Unsupervised Simple Definition Generation",
+    author = "Kong, Cunliang and
+      Chen, Yun and
+      Zhang, Hengyuan and
+      Yang, Liner and
+      Yang, Erhong",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics",
+    year = "2022"
 }
 ```
 
