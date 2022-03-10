@@ -70,7 +70,7 @@ The `[oxford|oald|cwn|textbook]` arguments are used to assign the specific defin
 
 ## Cite
 
-```
+```bibtex
 @inproceedings{kong-etal-2022-simpdefiner,
     title = "Multitasking Framework for Unsupervised Simple Definition Generation",
     author = "Kong, Cunliang and
