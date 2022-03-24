@@ -82,4 +82,5 @@ The `[oxford|oald|cwn|textbook]` arguments are used to assign the specific defin
     year = "2022"
 }
 ```
-
+## Contact
+If you have questions, suggestions or bug reports, please email cunliang.kong@outlook.com
