@@ -25,8 +25,8 @@ fairseq-preprocess \
     --tgtdict pretrained_model/MASS-zh/dict.txt \
     --workers 30
 
-DATA_DIR=data/annotated_oald_both/raw
-OUT_DIR=data/annotated_oald_both/processed
+DATA_DIR=data/aligned-oxford-oald-test/raw
+OUT_DIR=data/aligned-oxford-oald-test/processed
 
 python encode.py \
     --inputs $DATA_DIR/test.src \
